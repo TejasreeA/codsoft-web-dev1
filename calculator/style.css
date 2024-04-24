@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #2f9fff;
+  background: #c45ee6;
 }
 .container {
   position: relative;
@@ -44,11 +44,11 @@ body {
   font-size: 20px;
   cursor: pointer;
   background-color: #000;
-  color:#2f9fff;
+  color:#db60f7;
 }
 .buttons button:active {
   transform: scale(0.99);
 }
 .operator {
-  color: #078bff;
+  color: #07daff;
 }
